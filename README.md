@@ -12,3 +12,5 @@ Note: When embedding this code on a free server, you might have to comment out t
 // sumResult.setAttribute("readonly", "true");
 
 // unscrambledResult.setAttribute("readonly", "true");
+
+![Topalian_Cipher_Generator](https://pbs.twimg.com/media/F0HQkKWX0AAuBuT?format=png&name=small)

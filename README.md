@@ -3,7 +3,7 @@ JavaScript Cipher Generator Application that is easy to learn from. Learn many i
 
 Video: https://www.youtube.com/watch?v=_3mlLfq1MnQ
 
-Application: https://sites.google.com/view/collegeofscripting/topalian_cipher_generator
+App: https://sites.google.com/view/collegeofscripting/topalian_cipher_generator
 
 ![Topalian_Cipher_Generator](https://pbs.twimg.com/media/F0HQkKWX0AAuBuT?format=png&name=small)
 

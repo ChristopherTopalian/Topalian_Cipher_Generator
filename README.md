@@ -5,6 +5,8 @@ Video: https://www.youtube.com/watch?v=_3mlLfq1MnQ
 
 Application: https://sites.google.com/view/collegeofscripting/topalian_cipher_generator
 
+![Topalian_Cipher_Generator](https://pbs.twimg.com/media/F0HQkKWX0AAuBuT?format=png&name=small)
+
 Note: When embedding this code on a free server, you might have to comment out the readonly statements:
 
 // conversionResult.setAttribute("readonly", "true");
@@ -12,5 +14,3 @@ Note: When embedding this code on a free server, you might have to comment out t
 // sumResult.setAttribute("readonly", "true");
 
 // unscrambledResult.setAttribute("readonly", "true");
-
-![Topalian_Cipher_Generator](https://pbs.twimg.com/media/F0HQkKWX0AAuBuT?format=png&name=small)
